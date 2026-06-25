@@ -73,4 +73,4 @@ The dashboard consists of **6 interactive pages** with slicers, buttons, filters
 M.Sc. Operations Research | Aligarh Muslim University  
 📧 yadavaarushi215@gmail.com  
 🔗 [LinkedIn](www.linkedin.com/in/aarushi-yadav-2ab68b326)  
-🐙 [email](yadavaarushi215@gmail.com)
+🐙 [Phn no](+91 9311759925)
