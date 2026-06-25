@@ -18,9 +18,7 @@ The dashboard consists of **6 interactive pages** with slicers, buttons, filters
 | 🔍 Restaurant Details | Drill-through page — click any restaurant name to see its individual performance details |
 
 ---
-📥 Download Dashboard File
-
-🔗 Download Power BI File (.pbix)
+🔗 [Download Power BI File (.pbix)](https://drive.google.com/file/d/1XASku7XJF57Q_4VtQI0Lm2_gFMNK24EI/view?usp=drive_link)
 ## ✨ Key Features
 
 - 🔘 **Interactive Buttons** — Navigate between pages using custom buttons
